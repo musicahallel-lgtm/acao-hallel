@@ -1,0 +1,3 @@
+Coloque aqui o arquivo da logo com o nome EXATO: logo-hallel.png
+A logo oficial da Comunidade Católica Hallel deve ficar em: public/logo-hallel.png
+Nao renomeie. O site referencia /logo-hallel.png no topo, rodape e favicon.
